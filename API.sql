@@ -2,7 +2,7 @@
 -- version 4.9.4
 -- https://www.phpmyadmin.net/
 --
--- Host: localhost:3306
+-- Host: localhost
 -- Waktu pembuatan: 24 Mar 2020 pada 21.57
 -- Versi server: 10.3.22-MariaDB-cll-lve
 -- Versi PHP: 7.3.6
